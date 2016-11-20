@@ -98,6 +98,8 @@
                 </bitrate>
             </version>
         </driver>
+        
+        <!-- Don't need phantomjs  right now
         <driver id="phantomjs">
             <version id="2.1.1">
                 <bitrate sixtyfourbit="true">
@@ -124,6 +126,8 @@
                 </bitrate>
             </version>
         </driver>
+        -->
+        
         <driver id="marionette">
             <version id="0.11.1">
                 <bitrate sixtyfourbit="true">
